@@ -1,0 +1,16 @@
+C:\Users\USER\division\bin\Debug\net5.0\division.exe
+C:\Users\USER\division\bin\Debug\net5.0\division.deps.json
+C:\Users\USER\division\bin\Debug\net5.0\division.runtimeconfig.json
+C:\Users\USER\division\bin\Debug\net5.0\division.runtimeconfig.dev.json
+C:\Users\USER\division\bin\Debug\net5.0\division.dll
+C:\Users\USER\division\bin\Debug\net5.0\ref\division.dll
+C:\Users\USER\division\bin\Debug\net5.0\division.pdb
+C:\Users\USER\division\obj\Debug\net5.0\division.csproj.AssemblyReference.cache
+C:\Users\USER\division\obj\Debug\net5.0\division.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\division\obj\Debug\net5.0\division.AssemblyInfoInputs.cache
+C:\Users\USER\division\obj\Debug\net5.0\division.AssemblyInfo.cs
+C:\Users\USER\division\obj\Debug\net5.0\division.csproj.CoreCompileInputs.cache
+C:\Users\USER\division\obj\Debug\net5.0\division.dll
+C:\Users\USER\division\obj\Debug\net5.0\ref\division.dll
+C:\Users\USER\division\obj\Debug\net5.0\division.pdb
+C:\Users\USER\division\obj\Debug\net5.0\division.genruntimeconfig.cache

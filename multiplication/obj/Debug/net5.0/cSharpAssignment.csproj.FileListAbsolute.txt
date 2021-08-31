@@ -1,0 +1,16 @@
+C:\Users\USER\cSharpAssignment\bin\Debug\net5.0\cSharpAssignment.exe
+C:\Users\USER\cSharpAssignment\bin\Debug\net5.0\cSharpAssignment.deps.json
+C:\Users\USER\cSharpAssignment\bin\Debug\net5.0\cSharpAssignment.runtimeconfig.json
+C:\Users\USER\cSharpAssignment\bin\Debug\net5.0\cSharpAssignment.runtimeconfig.dev.json
+C:\Users\USER\cSharpAssignment\bin\Debug\net5.0\cSharpAssignment.dll
+C:\Users\USER\cSharpAssignment\bin\Debug\net5.0\ref\cSharpAssignment.dll
+C:\Users\USER\cSharpAssignment\bin\Debug\net5.0\cSharpAssignment.pdb
+C:\Users\USER\cSharpAssignment\obj\Debug\net5.0\cSharpAssignment.csproj.AssemblyReference.cache
+C:\Users\USER\cSharpAssignment\obj\Debug\net5.0\cSharpAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\cSharpAssignment\obj\Debug\net5.0\cSharpAssignment.AssemblyInfoInputs.cache
+C:\Users\USER\cSharpAssignment\obj\Debug\net5.0\cSharpAssignment.AssemblyInfo.cs
+C:\Users\USER\cSharpAssignment\obj\Debug\net5.0\cSharpAssignment.csproj.CoreCompileInputs.cache
+C:\Users\USER\cSharpAssignment\obj\Debug\net5.0\cSharpAssignment.dll
+C:\Users\USER\cSharpAssignment\obj\Debug\net5.0\ref\cSharpAssignment.dll
+C:\Users\USER\cSharpAssignment\obj\Debug\net5.0\cSharpAssignment.pdb
+C:\Users\USER\cSharpAssignment\obj\Debug\net5.0\cSharpAssignment.genruntimeconfig.cache
